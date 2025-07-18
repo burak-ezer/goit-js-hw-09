@@ -1,0 +1,11 @@
+.gallery {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: 0fr 0fr 0fr;
+  margin: 0 auto;
+  width: 1440px;
+}
+
+li {
+  list-style: none;
+}
